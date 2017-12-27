@@ -1,0 +1,11 @@
+{
+  "name": "splunk-logging",
+  "version": "1.0.0",
+  "description": "Sample logging",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "Palash Roy",
+  "license": "ISC"
+}
