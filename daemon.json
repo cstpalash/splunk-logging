@@ -2,6 +2,6 @@
   "log-driver": "splunk",
   "log-opts": {
     "splunk-token": "28b5ab89-cd5f-4299-9906-e5ef6ff82eec",
-    "splunk-url": "https://localhost:8088"
+    "splunk-url": "http://192.168.15.2:8088"
   }
 }
